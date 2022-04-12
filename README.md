@@ -5,3 +5,4 @@
 ## _Olá, bem vindex ao meu livro de receitas!_ 
 
 - Receita do amor
+- Receita do perdão
